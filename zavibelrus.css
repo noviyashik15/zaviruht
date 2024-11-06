@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0;
+    background-color: rgb(188, 188, 236);}
+h1{  
+    padding: 0px 0px 5px 16rem;
+} 
+p{font-size: small;}   
+span{font-size: medium;}
+.container{
+    display: grid;
+    /* grid-template-rows: 1fr 1fr; */
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    position: absolute;
+    padding-left: .8rem;
+}
+/* .grid-item{
+    border: 10px solid var(--yellow);
+    align-items: center; 
+} */

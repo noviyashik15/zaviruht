@@ -1,0 +1,6 @@
+*{  margin: 0; padding: 0;  }
+body { background: linear-gradient(90deg, rgb(3, 201, 73), rgb(157, 224, 181)); }
+p{font-size: medium;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+span{padding-left: 2rem;}
+
